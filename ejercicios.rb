@@ -1,8 +1,8 @@
 texto = "hola mundo"
-puts texto.upcase  # Salida: "HOLA MUNDO"
+puts texto.upcase  
 
-texto = "HOLA MUNDO"
-puts texto.downcase  # Salida: "hola mundo"
+texto = "Eduwin Fabian Torres Mendoza"
+puts texto.downcase  
 
 texto = "hola mundo, hola Ruby"
-puts texto.gsub("hola", "hello")  # Salida: "hello mundo, hello Ruby"
+puts texto.gsub("hola", "hello")  
